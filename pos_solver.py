@@ -1,17 +1,5 @@
 #!/usr/bin/env python3
 ###################################
-# CS B551 Fall 2018, Assignment #3
-#
-# Your names and user ids: 
-# Satyaraja Dasara - sdasara
-# Abhinav Reddy Kaitha - abkaitha106
-# Justin Lee - jl146
-#
-# (Based on skeleton code by D. Crandall)
-#
-#
-####
-# Put your report here!!
 ############# (1) a description of how you formulated the problem, including precisely defining the abstractions ##############
 #
 ######### CALCULATIONS DONE IN TRAIN FUNCTION:################################################################################
